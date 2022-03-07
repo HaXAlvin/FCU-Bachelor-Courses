@@ -1,0 +1,125 @@
+;#<FEEDBACK># ARM Linker, 5060750: Last Updated: Tue Dec 15 21:06:10 2020
+;VERSION 0.2
+;FILE clk.o
+CLK_DisableCKO <= USED 0
+CLK_DisableModuleClock <= USED 0
+CLK_DisablePLL <= USED 0
+CLK_DisableSysTick <= USED 0
+CLK_DisableXtalRC <= USED 0
+CLK_EnableCKO <= USED 0
+CLK_EnableSysTick <= USED 0
+CLK_GetCPUFreq <= USED 0
+CLK_GetHXTFreq <= USED 0
+CLK_GetLXTFreq <= USED 0
+CLK_GetPCLKFreq <= USED 0
+CLK_Idle <= USED 0
+CLK_PowerDown <= USED 0
+CLK_SetSysTickClockSrc <= USED 0
+__asm___5_clk_c_9b5832dc____REV16 <= USED 0
+__asm___5_clk_c_9b5832dc____REVSH <= USED 0
+;FILE draw2d.o
+__asm___8_Draw2D_c_d834b40d____REV16 <= USED 0
+__asm___8_Draw2D_c_d834b40d____REVSH <= USED 0
+draw_Line <= USED 0
+draw_Rectangle <= USED 0
+draw_Triangle <= USED 0
+fill_Rectangle <= USED 0
+;FILE gpio.o
+GPIO_DisableInt <= USED 0
+GPIO_EnableInt <= USED 0
+GPIO_SetMode <= USED 0
+__asm___6_gpio_c_f8f858a7____REV16 <= USED 0
+__asm___6_gpio_c_f8f858a7____REVSH <= USED 0
+;FILE i2c.o
+I2C_ClearTimeoutFlag <= USED 0
+I2C_Close <= USED 0
+I2C_DisableInt <= USED 0
+I2C_DisableTimeout <= USED 0
+I2C_DisableWakeup <= USED 0
+I2C_EnableInt <= USED 0
+I2C_EnableTimeout <= USED 0
+I2C_EnableWakeup <= USED 0
+I2C_GetBusClockFreq <= USED 0
+I2C_GetData <= USED 0
+I2C_GetIntFlag <= USED 0
+I2C_GetStatus <= USED 0
+I2C_SetBusClockFreq <= USED 0
+I2C_SetData <= USED 0
+I2C_SetSlaveAddr <= USED 0
+I2C_SetSlaveAddrMask <= USED 0
+I2C_Trigger <= USED 0
+__asm___5_i2c_c_I2C_Open____REV16 <= USED 0
+__asm___5_i2c_c_I2C_Open____REVSH <= USED 0
+;FILE i2cdev.o
+__asm___8_I2Cdev_c_844b0337____REV16 <= USED 0
+__asm___8_I2Cdev_c_844b0337____REVSH <= USED 0
+;FILE lcd.o
+__asm___5_LCD_c_Font8x16____REV16 <= USED 0
+__asm___5_LCD_c_Font8x16____REVSH <= USED 0
+draw_Bmp120x8 <= USED 0
+draw_Bmp16x16 <= USED 0
+draw_Bmp16x24 <= USED 0
+draw_Bmp16x32 <= USED 0
+draw_Bmp16x40 <= USED 0
+draw_Bmp16x48 <= USED 0
+draw_Bmp16x64 <= USED 0
+draw_Bmp16x8 <= USED 0
+draw_Bmp32x16 <= USED 0
+draw_Bmp32x32 <= USED 0
+draw_Bmp32x48 <= USED 0
+draw_Bmp32x64 <= USED 0
+draw_Bmp32x8 <= USED 0
+draw_Bmp64x64 <= USED 0
+draw_Bmp8x16 <= USED 0
+draw_Bmp8x8 <= USED 0
+draw_LCD <= USED 0
+printC <= USED 0
+printC_5x7 <= USED 0
+printS <= USED 0
+printS_5x7 <= USED 0
+print_Line <= USED 0
+;FILE main.o
+__asm___6_main_c_main____REV16 <= USED 0
+__asm___6_main_c_main____REVSH <= USED 0
+;FILE mpu6050.o
+Read_MPU6050_GyroX <= USED 0
+Read_MPU6050_GyroY <= USED 0
+Read_MPU6050_GyroZ <= USED 0
+__asm___9_MPU6050_c_707d7ea4____REV16 <= USED 0
+__asm___9_MPU6050_c_707d7ea4____REVSH <= USED 0
+;FILE spi.o
+SPI_ClearIntFlag <= USED 0
+SPI_ClearRxFIFO <= USED 0
+SPI_ClearTxFIFO <= USED 0
+SPI_Close <= USED 0
+SPI_DisableFIFO <= USED 0
+SPI_DisableInt <= USED 0
+SPI_EnableAutoSS <= USED 0
+SPI_EnableFIFO <= USED 0
+SPI_EnableInt <= USED 0
+SPI_GetBusClock <= USED 0
+SPI_GetIntFlag <= USED 0
+SPI_GetStatus <= USED 0
+SPI_SetBusClock <= USED 0
+__asm___5_spi_c_SPI_Open____REV16 <= USED 0
+__asm___5_spi_c_SPI_Open____REVSH <= USED 0
+;FILE startup_nuc100series.o
+;FILE sys.o
+SYS_ClearResetSrc <= USED 0
+SYS_DisableBOD <= USED 0
+SYS_EnableBOD <= USED 0
+SYS_GetBODStatus <= USED 0
+SYS_GetResetSrc <= USED 0
+SYS_IsRegLocked <= USED 0
+SYS_ReadPDID <= USED 0
+SYS_ResetCPU <= USED 0
+SYS_ResetChip <= USED 0
+SYS_ResetModule <= USED 0
+__asm___5_sys_c_962b9fbe____REV16 <= USED 0
+__asm___5_sys_c_962b9fbe____REVSH <= USED 0
+;FILE sys_init.o
+__asm___10_SYS_init_c_SYS_Init____REV16 <= USED 0
+__asm___10_SYS_init_c_SYS_Init____REVSH <= USED 0
+;FILE system_nuc100series.o
+__asm___21_system_NUC100Series_c_5d646a67____REV16 <= USED 0
+__asm___21_system_NUC100Series_c_5d646a67____REVSH <= USED 0

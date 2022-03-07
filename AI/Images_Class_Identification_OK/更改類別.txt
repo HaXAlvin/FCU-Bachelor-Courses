@@ -1,0 +1,8 @@
+Class_Identification.py ===> line 42
+
+人 : "person"
+
+車 : "car"
+
+巴士 : "bus"
+
