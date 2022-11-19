@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.AppTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-05-11T06:53:20" hostname="xuejunyoudeMacBook-Pro.local" time="0.081">
+  <properties/>
+  <testcase name="priceTestWeak1()" classname="demo.AppTest" time="0.055"/>
+  <testcase name="priceTestWeak2()" classname="demo.AppTest" time="0.001"/>
+  <testcase name="priceTestWeak3()" classname="demo.AppTest" time="0.001"/>
+  <testcase name="priceTestWeak4()" classname="demo.AppTest" time="0.002"/>
+  <testcase name="priceTestWeak5()" classname="demo.AppTest" time="0.001"/>
+  <testcase name="runTest()" classname="demo.AppTest" time="0.002"/>
+  <testcase name="priceTestStrong1()" classname="demo.AppTest" time="0.005"/>
+  <testcase name="priceTestStrong2()" classname="demo.AppTest" time="0.002"/>
+  <testcase name="priceTestStrong3()" classname="demo.AppTest" time="0.001"/>
+  <testcase name="priceTestStrong4()" classname="demo.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
